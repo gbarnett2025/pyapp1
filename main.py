@@ -10,4 +10,4 @@ from appcommon import print_message
 
 
 if __name__ == "__main__":
-print_message("app1")
+    print_message("app1")
