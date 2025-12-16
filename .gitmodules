@@ -1,0 +1,3 @@
+[submodule "pycommon"]
+	path = pycommon
+	url = https://github.com/gbarnett2025/pycommon.git
